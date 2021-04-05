@@ -1,0 +1,8 @@
+{
+  "name": "stmt-web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "5f466bfc"
+}
